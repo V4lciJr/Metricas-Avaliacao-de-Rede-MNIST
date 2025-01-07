@@ -54,4 +54,4 @@ Este projeto apresenta uma implementação de uma rede neural para classificar i
 ------------
 Sinta-se à vontade para contribuir com melhorias e sugestões!
 
->**Este código foi desenvolvido no Desafio do Bootcamp da BairesDev na plataforma da (DIO)[https://www.dio.me/]**
+>**Este código foi desenvolvido no Desafio do Bootcamp da BairesDev na plataforma da [DIO](https://www.dio.me/)**
